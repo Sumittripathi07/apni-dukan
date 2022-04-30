@@ -1,5 +1,6 @@
 import React from "react";
 import Products from "./Products";
+import Scrol from "./Scrol";
 
 const Home = () => {
   return (
@@ -21,6 +22,7 @@ const Home = () => {
         </div>
       </div>
       <Products/>
+      <Scrol showBelow={250}/>
     </div>
   );
 };
