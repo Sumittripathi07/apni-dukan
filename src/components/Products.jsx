@@ -57,7 +57,6 @@ const Products = () => {
   };
 
   const filterProduct = (cat) => {
-    console.log("Hoiii")
     const updatedList = data.filter((x) => x.category === cat);
     setFilter(updatedList);
   };

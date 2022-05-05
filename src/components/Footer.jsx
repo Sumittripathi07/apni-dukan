@@ -59,10 +59,18 @@ const Footer = () => {
             >
               <i className="fa fa-facebook"></i>
             </a>
-            <a href="##">
+            <a
+              href="https://twitter.com/iamSumit076"
+              rel="noreferrer"
+              target="_blank"
+            >
               <i className="fa fa-twitter"></i>
             </a>
-            <a href="##">
+            <a
+              href="https://www.linkedin.com/in/sumit-tripathi-932bb31b5/"
+              rel="noreferrer"
+              target="_blank"
+            >
               <i className="fa fa-linkedin"></i>
             </a>
             <a
