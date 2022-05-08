@@ -50,7 +50,7 @@ const Navbar = () => {
               <NavLink to="/login" className="btn btn-outline-dark">
                 <i className="fa fa-sign-in me-1">Login</i>
               </NavLink>
-              <NavLink to="register" className="btn btn-outline-dark ms-2">
+              <NavLink to="/regester" className="btn btn-outline-dark ms-2">
                 <i className="fa fa-user-plus me-1">Register</i>
               </NavLink>
               <NavLink to="/cart" className="btn btn-outline-dark ms-2">

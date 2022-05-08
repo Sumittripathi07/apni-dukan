@@ -10,7 +10,7 @@ const Contact = () => {
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossOrigin="anonymous" />
-<section className="jumbotron text-center" style={{"marginTop": "5rem"}}>
+<section className="jumbotron text-center">
     <div className="container">
         <h1 className="jumbotron-heading">CONTACT US</h1>
     </div>
